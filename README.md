@@ -1,1 +1,2 @@
 # MyfirstWeb
+<!DOCTYPE html>
